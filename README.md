@@ -1,4 +1,3 @@
-# This repository purpose is only for learning and research purpose.
-# Use at your own risk!
+# This repository is only for learning and research purpose
 
 2.1.0
